@@ -83,7 +83,7 @@ social-media-sentiment-analysis/
 
 ---
 
-##Screenshots
+Screenshots
 ---
 ## System Architecture
 
