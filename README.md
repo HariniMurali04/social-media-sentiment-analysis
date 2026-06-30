@@ -84,7 +84,7 @@ social-media-sentiment-analysis/
 ---
 
 ##Screenshots
-
+---
 ## System Architecture
 
 ![Architecture](images/architecture.png)
