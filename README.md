@@ -64,7 +64,7 @@ The system preprocesses raw social media text, extracts meaningful features usin
 
 Sentiment140 Dataset
 
-See dataset_link.txt
+https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ---
 
@@ -83,7 +83,33 @@ social-media-sentiment-analysis/
 
 ---
 
+##Screenshots
+
+## System Architecture
+
+![Architecture](images/architecture.png)
+
+## Model Comparison
+
+![Comparison](images/model_comparison.png)
+
+## BERT Prediction
+
+![BERT](images/bert_prediction.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+## ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+
+
 ## Results
+
+
 
 Logistic Regression achieved better overall performance than Naive Bayes, while BERT significantly improved contextual sentiment understanding for real-time predictions.
 
